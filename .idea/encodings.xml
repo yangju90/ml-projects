@@ -3,6 +3,12 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gis-kmeans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gis-kmeans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gis-kmeans/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gis-kmeans/src/test/resource/world/world-ZN-name.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ner-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ner-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>

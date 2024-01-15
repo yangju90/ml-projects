@@ -7,7 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gis-kmeans" />
+        <module name="ner-project" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gis-kmeans" options="-parameters" />
+      <module name="ner-project" options="-parameters" />
+    </option>
   </component>
 </project>

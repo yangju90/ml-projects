@@ -8,9 +8,10 @@ import init.mat.mlproj.kmeans.io.IOBase;
 import init.mat.mlproj.kmeans.io.impl.GeoIOConstant;
 import org.junit.Test;
 
+import javax.swing.plaf.basic.BasicScrollPaneUI;
 import java.io.IOException;
 import java.net.URISyntaxException;
-import java.util.List;
+import java.util.*;
 
 /**
  * Unit test for simple App.
@@ -57,5 +58,44 @@ public class KmansAppTest
                 e.printStackTrace();
             }
         }
+    }
+
+
+    @Test
+    public void test() {
+        String pattern = "abba";
+        String s = "dog cat cat fish";
+        System.out.println(wordPattern(pattern, s));
+    }
+
+    public boolean wordPattern(String pattern, String s) {
+        HashMap<Character, String> invoke1 = new HashMap<>();
+        HashMap<String, Character> invoke2 = new HashMap<>();
+        char[] chars = pattern.toCharArray();
+        String[] strs = s.split(" ");
+        if(chars.length != strs.length) return false;
+
+        for(int i = 0; i< chars.length; i++){
+            if(!invoke1.containsKey(chars[i]) && !invoke2.containsKey(strs[i])){
+                invoke1.put(chars[i], strs[i]);
+                invoke2.put(strs[i], chars[i]);
+            }else{
+                if(invoke1.containsKey(chars[i])){
+                    String t = invoke1.get(chars[i]);
+                    if(!t.equals(strs[i])) return false;
+                }else{
+                    return false;
+                }
+            }
+        }
+        return true;
+
+    }
+
+    @Test
+    public void arrayListTest(){
+        HashMap<Integer, List<Integer>> map = new HashMap<>();
+        map.compute(1 , (k, v) -> new ArrayList<>()).add(2);
+        System.out.println(map.get(1));
     }
 }

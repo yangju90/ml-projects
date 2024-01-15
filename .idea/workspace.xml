@@ -1,256 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1725a13-7460-49c1-8966-15c3ba8e3749" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/gis-kmeans/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c1725a13-7460-49c1-8966-15c3ba8e3749" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ml-projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ner-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ner-project/src/main/java/init/mat/mlproj/ner/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ner-project/src/test/java/init/mat/mlproj/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ner-project/src/test/resources/sample-chinese.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/src/test/java/init/mat/mlproj/KmansAppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/gis-kmeans/src/test/java/init/mat/mlproj/KmansAppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china/china.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china/province.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china/water.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/公路_l.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/县_p.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/县界-线_l.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/县界_a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/国界-线_l.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/国界_a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/城市_p.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/水系1-线_l.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/水系1-面_a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/水系2-线_l.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/水系2-面_a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/河流4_l.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/河流5_l.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/省会_p.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/省界-线_l.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/省界_a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/china2/铁路_l.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/world/Country.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/world/CountryPoint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/world/Island.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/world/delete.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/world/ne_10m_admin_0_countries.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/world/world-ZN-name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gis-kmeans/target/test-classes/world/world-ZN-name1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="476424315">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.74" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="5" />
-          <entry key="java" value="510" />
-          <entry key="txt" value="1" />
-          <entry key="xml" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="510" />
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="XML" value="20" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="58" />
-          <entry key="json" value="13" />
-          <entry key="txt" value="2" />
-          <entry key="xml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="58" />
-          <entry key="JSON" value="13" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gis-kmeans/src/test/java/init/mat/mlproj/KmansAppTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="839">
-              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/convert/code/GtConvertEngine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/gis-kmeans/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/DistanceConstant.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/exception/InvalidGeoJsonException.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/bean/Cluster.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/bean/ClusterList.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/ClusterCenterComputingFactory.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/ClusterCenterComputing.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/CoordinateDistance.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/CoordinateDistanceFactory.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/AvgClusterCenterComputing.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/SimpleCoordinateDistance.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/StandardClusterCenterComputing.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/StandardCoordinateDistance.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/convert/ConvertFactory.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/core/KMeansCluster.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/IOBase.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/GeoIO.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/impl/GeoJsonGeoIO.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/impl/TopJsonGeoIO.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/util/CharFilter.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/util/CommonUtils.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/GeoIOFactory.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/KMeans.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/test/resource/world/world-ZN-name.txt" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/convert/code/GtConvertEngine.java" />
-        <option value="$PROJECT_DIR$/gis-kmeans/src/test/java/init/mat/mlproj/KmansAppTest.java" />
-      </list>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
     </option>
+    <expand />
+    <select />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\apache-maven-3.5.3\repository" />
-        <option name="mavenHome" value="E:/apache-maven-3.5.3" />
-        <option name="userSettingsFile" value="E:\apache-maven-3.5.3\conf\settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../JavaSoftTools/apache-maven-3.8.2" />
+        <option name="userSettingsFile" value="D:\JavaSoftTools\apache-maven-3.8.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="539" />
-    <option name="y" value="22" />
-    <option name="width" value="1128" />
-    <option name="height" value="669" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="NBKnowledgePane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ml-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml-projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="gis-kmeans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="gis-kmeans" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="gis-kmeans" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="gis-kmeans" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="gis-kmeans" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="kmeans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="gis-kmeans" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="gis-kmeans" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml-projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml-projects" type="462c0819:PsiDirectoryNode" />
-              <item name="gis-kmeans" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mlproj" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1eZTrIl5wggWc64qVBW3afUamAg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584609460310" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\java\workspace\ml-projects\gis-kmeans\target\test-classes" />
       <recent name="E:\java\workspace\ml-projects\gis-kmeans\src\test\resource" />
       <recent name="E:\java\workspace\ml-projects\gis-kmeans\src\main\java\init\mat\mlproj\kmeans\util" />
       <recent name="E:\java\workspace\ml-projects\gis-kmeans\src\main\java\init\mat\mlproj\kmeans\io" />
       <recent name="E:\java\workspace\ml-projects\gis-kmeans\src\main\java\init\mat\mlproj\kmeans\exception" />
-      <recent name="E:\java\workspace\ml-projects\gis-kmeans\src\main\java\init\mat\mlproj\kmeans\core" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.AppTest.testApp">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="init.mat.mlproj.ner.App" />
+      <module name="ner-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="init.mat.mlproj.ner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.testApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ner-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="init.mat.mlproj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="init.mat.mlproj" />
+      <option name="MAIN_CLASS_NAME" value="init.mat.mlproj.AppTest" />
+      <option name="METHOD_NAME" value="testApp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KmansAppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gis-kmeans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="init.mat.mlproj.ner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="init.mat.mlproj" />
+      <option name="MAIN_CLASS_NAME" value="init.mat.mlproj.KmansAppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KmansAppTest.arrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gis-kmeans" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="init.mat.mlproj.ner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="init.mat.mlproj" />
+      <option name="MAIN_CLASS_NAME" value="init.mat.mlproj.KmansAppTest" />
+      <option name="METHOD_NAME" value="arrayListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KmansAppTest.kmeansRun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gis-kmeans" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="init.mat.mlproj.*" />
+          <option name="PATTERN" value="init.mat.mlproj.ner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,10 +199,27 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AppTest.testApp" />
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.KmansAppTest.kmeansRun" />
+        <item itemvalue="JUnit.KmansAppTest.arrayListTest" />
+        <item itemvalue="JUnit.KmansAppTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -280,507 +232,24 @@
       <updated>1584604001511</updated>
       <workItem from="1584604003571" duration="5224000" />
       <workItem from="1584609762286" duration="41000" />
+      <workItem from="1584628692481" duration="135000" />
+      <workItem from="1594528317558" duration="796000" />
+      <workItem from="1594605940808" duration="23000" />
+      <workItem from="1605527525635" duration="1556000" />
+      <workItem from="1605534568956" duration="751000" />
+      <workItem from="1605794460923" duration="618000" />
+      <workItem from="1606144857564" duration="326000" />
+      <workItem from="1606562751500" duration="752000" />
+      <workItem from="1608134761901" duration="728000" />
+      <workItem from="1610376217125" duration="1085000" />
+      <workItem from="1610465778597" duration="2333000" />
+      <workItem from="1614680847121" duration="11000" />
+      <workItem from="1614694219378" duration="955000" />
+      <workItem from="1631889463110" duration="26000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="KmansAppTest_kmeansRun - 2020.03.19 at 16h 22m 41s.xml">
-      <configuration name="KmansAppTest.kmeansRun" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KmansAppTest_kmeansRun - 2020.03.19 at 16h 27m 37s.xml">
-      <configuration name="KmansAppTest.kmeansRun" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KmansAppTest_kmeansRun - 2020.03.19 at 16h 35m 50s.xml">
-      <configuration name="KmansAppTest.kmeansRun" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KmansAppTest_kmeansRun - 2020.03.19 at 16h 38m 23s.xml">
-      <configuration name="KmansAppTest.kmeansRun" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KmansAppTest_kmeansRun - 2020.03.19 at 16h 47m 31s.xml">
-      <configuration name="KmansAppTest.kmeansRun" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KmansAppTest_kmeansRun - 2020.03.19 at 17h 02m 08s.xml">
-      <configuration name="KmansAppTest.kmeansRun" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KmansAppTest_kmeansRun - 2020.03.19 at 17h 15m 24s.xml">
-      <configuration name="KmansAppTest.kmeansRun" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KmansAppTest_kmeansRun - 2020.03.19 at 17h 15m 35s.xml">
-      <configuration name="KmansAppTest.kmeansRun" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="KmansAppTest_kmeansRun - 2020.03.19 at 17h 16m 15s.xml">
-      <configuration name="KmansAppTest.kmeansRun" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5265000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35627836" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32189542" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.13071896" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/StandardCoordinateDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/StandardClusterCenterComputing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1029">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/SimpleCoordinateDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/DistanceConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/ClusterCenterConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/impl/AvgClusterCenterComputing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/ClusterCenterComputing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/ClusterCenterComputingFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/CoordinateDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="40" column="14" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/compute/CoordinateDistanceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/bean/Cluster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-890">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/bean/ClusterList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1491">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/bean/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/bean/DataList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/convert/code/GtLoadedFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3045">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/convert/ConvertEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/convert/ConvertEngineConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/convert/ConvertFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/convert/LoadUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/core/KMeansCluster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1935">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/exception/InvalidGeoJsonException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/exception/UnkonwDataFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/GeoIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/impl/GeoIOConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/impl/GeoJsonGeoIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/util/CharFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/util/CommonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/util/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/test/resource/china/province.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/GeoIOFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/impl/TopJsonGeoIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="65" column="45" selection-start-line="65" selection-start-column="45" selection-end-line="65" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/test/resource/china2/县界-线_l.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret column="2217" lean-forward="true" selection-start-column="2217" selection-end-column="2217" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/test/resource/world/ne_10m_admin_0_countries.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116633">
-          <caret column="1569" lean-forward="true" selection-start-column="1569" selection-end-column="1569" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/test/resource/world/world-ZN-name.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4319">
-          <caret line="2259" column="47" selection-start-line="2259" selection-start-column="43" selection-end-line="2259" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/URL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="945" column="22" selection-start-line="945" selection-start-column="19" selection-end-line="945" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/URI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="2767" column="21" lean-forward="true" selection-start-line="2767" selection-start-column="21" selection-end-line="2767" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.58/fastjson-1.2.58-sources.jar!/com/alibaba/fastjson/JSON.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="142" column="25" selection-start-line="142" selection-start-column="25" selection-end-line="142" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/KMeans.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/test/resource/china/china.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret column="971" selection-start-column="971" selection-end-column="971" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/test/resource/china/water.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret column="898" selection-start-column="898" selection-end-column="898" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/test/resource/world/world-ZN-name1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/io/IOBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/test/java/init/mat/mlproj/KmansAppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="839">
-          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gis-kmeans/src/main/java/init/mat/mlproj/kmeans/convert/code/GtConvertEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>gis-kmeans</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.alibaba:fastjson:1.2.58</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
